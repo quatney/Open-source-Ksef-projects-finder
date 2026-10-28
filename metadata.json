@@ -1,0 +1,8 @@
+{
+  "name": "KSEF Research Project Report & PDF Generator",
+  "description": "Official Kenya Science and Engineering Fair (KSEF) research project proposal and technical report for the dual-action evaporative cooler, exportable as an authentic academic PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
